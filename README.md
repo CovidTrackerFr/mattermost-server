@@ -2,7 +2,7 @@
 
 Configuration du serveur [Mattermost](https://mattermost.com) utilisé pour le développement de CovidTracker. 
 
-Site accessible sur : [https://mattermost.macg.io](https://mattermost.covidtracker.fr)
+Site accessible sur : [https://mattermost.covidtracker.fr](https://mattermost.covidtracker.fr)
 
 ## Infos sur le serveur
 
