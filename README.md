@@ -10,4 +10,4 @@ Site accessible sur : [https://mattermost.covidtracker.fr](https://mattermost.co
 - Distribution : Ubuntu 20.04
 - Serveur web : géré par Mattermost ([installation Omnibus](https://docs.mattermost.com/install/mattermost-omnibus.html))
 
-Adresse IP publique :  163.172.159.204
+Adresse IP publique : `51.15.204.41`
