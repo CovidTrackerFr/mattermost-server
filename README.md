@@ -11,3 +11,15 @@ Site accessible sur : [https://mattermost.covidtracker.fr](https://mattermost.co
 - Serveur web : géré par Mattermost ([installation Omnibus](https://docs.mattermost.com/install/mattermost-omnibus.html))
 
 Adresse IP publique : `51.15.204.41`
+
+## Instructions
+
+Cloner le projet sur le serveur :
+
+`git clone https://github.com/CovidTrackerFr/mattermost-server.git config`
+
+Lancer le script d’installation : 
+
+`~/config/tools/install.sh`
+
+Redémarrer le serveur à la fin du processus.
