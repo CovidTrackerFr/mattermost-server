@@ -1,0 +1,23 @@
+"com.mattermost.welcomebot": {
+    "WelcomeMessages": [
+      {
+        "Actions": [
+          {
+            "ActionType": "automatic",
+            "ChannelsAddedTo": [
+              "presentez-vous"
+            ]
+          }
+        ],
+        "AttachmentMessage": [
+          "Pour en savoir plus sur le projet, vous pouvez [consulter le Welcome Guide](https://docs.google.com/document/d/1kKb__WxGIY9PNYdoOCX0kRODghrwDrg1iky_Aao1Pmg/edit)."
+        ],
+        "DelayInSeconds": 3,
+        "Message": [
+          "Bienvenue sur le Mattermost de CovidTraker !",
+          "Merci de vous présenter dans le canal « PRÉSENTEZ-VOUS » puis cliquez sur le bouton + de la barre latérale pour découvrir les autres canaux disponibles."
+        ],
+        "TeamName": "covidtracker"
+      }
+    ]
+  },
