@@ -14,8 +14,9 @@
         ],
         "DelayInSeconds": 3,
         "Message": [
-          "Bienvenue sur le Mattermost de CovidTraker !",
-          "Merci de vous présenter dans le canal « PRÉSENTEZ-VOUS » puis cliquez sur le bouton + de la barre latérale pour découvrir les autres canaux disponibles."
+          "# Bienvenue {{.UserDisplayName}} sur le Mattermost de CovidTraker !",
+          "",
+          "Merci de vous présenter dans le canal ~presentez-vous puis cliquez sur le bouton + de la barre latérale pour découvrir les autres canaux disponibles."
         ],
         "TeamName": "covidtracker"
       }
